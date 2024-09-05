@@ -1,7 +1,7 @@
 # Blind-Supporting-System-using-TensorFlow
 The Blind Supporting System is designed specifically for individuals with visual impairments. It operates through an application that transmits real-time frames to a laptop-based, wireless networked system. Utilizing the SSD MobileNet algorithm and TensorFlow APIs, the system provides real-time object detection.
 _______________________________________________________________________________________________________________________________________________________________________________
-#Key Features:
+**Key Features:**
 
 Real-Time Object Detection: The system uses the SSD MobileNet algorithm to identify objects instantly, offering immediate feedback to the user.
 
